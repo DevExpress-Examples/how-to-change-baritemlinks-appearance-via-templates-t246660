@@ -3,7 +3,7 @@
 
 * [CustomResources.xaml](./CS/CustomResources.xaml) (VB: [CustomResources.xaml](./VB/CustomResources.xaml))
 * [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml](./VB/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to change BarItemLink's appearance via templates
 
